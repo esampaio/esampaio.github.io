@@ -1,0 +1,9 @@
+---
+layout: project
+title:  "dotty"
+date:   2013-11-12 20:54:28
+categories: projects
+type: osx
+link: https://github.com/esampaio/dotty
+description: My dotfiles
+---

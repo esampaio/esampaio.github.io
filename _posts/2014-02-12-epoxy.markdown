@@ -1,0 +1,9 @@
+---
+layout: project
+title:  "epoxy"
+date:   2013-11-12 20:54:28
+categories: projects
+type: php
+link: https://github.com/esampaio/epoxy
+description: Attach files to any Entity with this Symfony 2 bundle
+---

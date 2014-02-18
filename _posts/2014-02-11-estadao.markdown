@@ -1,0 +1,9 @@
+---
+layout: project
+title:  "bookmarklet estad&atilde;o"
+date:   2013-11-12 20:54:28
+categories: projects
+type: javascript
+link: http://esampaio.github.com/bookmarkletestadao
+description: Bookmarklet to remove the Estadao.com.br paywall
+---
