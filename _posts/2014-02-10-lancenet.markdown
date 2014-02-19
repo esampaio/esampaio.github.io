@@ -4,6 +4,6 @@ title:  "bookmarklet lancenet"
 date:   2013-11-12 20:54:28
 categories: projects
 type: javascript
-link: http://e.sampa.io/bookmarkletlancenet/
+link: /bookmarkletlancenet/
 description: Bookmarklet to remove the Lancenet.com.br paywall
 ---
