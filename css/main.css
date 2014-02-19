@@ -87,6 +87,11 @@ div.line-title-side {
   border-bottom: 7px solid #404040;
 }
 
+.projects li div.content p {
+  font-weight: 900;
+  font-size: 1.1em;
+}
+
 .projects li div.project-type {
   border-left: 7px solid #404040;
 }
